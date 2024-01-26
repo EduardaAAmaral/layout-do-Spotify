@@ -1,6 +1,6 @@
 # Imersão Front-end Alura
 
-Bem-vindo ao repositório da Imersão Front-end da Alura! Aqui você encontrará o projeto desenvolvido durante o curso, bem como informações importantes sobre a imersão.
+Bem-vindo ao meu repositório da Imersão Front-end da Alura! Aqui você encontrará o projeto desenvolvido durante o curso, bem como informações importantes sobre a imersão.
 
 ## Sobre a Imersão
 
